@@ -37,7 +37,7 @@ export default function Home() {
 
         <div className="container mx-auto max-w-[900px] text-center relative z-10">
           <h1 className="text-5xl md:text-6xl lg:text-7xl font-bold text-white mb-6 tracking-tight">
-            Download blank file templates
+            Generate, convert file formats and download blank file templates
           </h1>
           <p className="text-xl md:text-2xl text-white/90 max-w-[700px] mx-auto mb-10">
             Clean, properly formatted files for your projects
