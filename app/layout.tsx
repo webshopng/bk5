@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Blank Printables - Free Blank File Templates",
   description: "Download free blank file templates for all your needs - TXT, CSV, JSON and more.",
-    generator: 'v0.dev'
+    generator: 'NextJS'
 }
 
 export default function RootLayout({
