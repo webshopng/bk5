@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next"
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://blank-printables.vercel.app" // Replace with your actual domain
+  const baseUrl = "hhttps://blankprintables.com/" // Replace with your actual domain
 
   // Get current date for lastModified
   const currentDate = new Date()
