@@ -1,0 +1,22 @@
+# This is a blank YAML file
+# You can use this as a template for your configuration
+
+# Example structure (commented out)
+# version: 1.0
+# 
+# settings:
+#   debug: false
+#   timeout: 30
+# 
+# user:
+#   name: Username
+#   email: user@example.com
+#   preferences:
+#     theme: dark
+#     notifications: true
+# 
+# features:
+#   - feature1
+#   - feature2
+#   - feature3
+
